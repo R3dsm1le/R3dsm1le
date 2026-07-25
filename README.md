@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kody](https://github.com/R3dsm1le/Kody_AI)
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about **Python Development**
 
